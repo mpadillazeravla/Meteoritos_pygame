@@ -1,0 +1,3 @@
+([('meteoritos',
+   '/Users/mikelator/Desktop/mike proyectos/meteoritos/dist/meteoritos',
+   'EXECUTABLE')],)
